@@ -2,8 +2,8 @@
 
 # asdf-kubevela [![Build](https://github.com/gustavclausen/asdf-kubevela/actions/workflows/build.yml/badge.svg)](https://github.com/gustavclausen/asdf-kubevela/actions/workflows/build.yml) [![Lint](https://github.com/gustavclausen/asdf-kubevela/actions/workflows/lint.yml/badge.svg)](https://github.com/gustavclausen/asdf-kubevela/actions/workflows/lint.yml)
 
-
-[kubevela](https://kubevela.io/docs) plugin for the [asdf version manager](https://asdf-vm.com).
+[kubevela](https://kubevela.io/docs) plugin for the
+[asdf version manager](https://asdf-vm.com).
 
 </div>
 
@@ -16,10 +16,7 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
 - `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
 
 # Install
 
@@ -47,15 +44,17 @@ asdf global kubevela latest
 vela version
 ```
 
-Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
-install & manage versions.
+Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on
+how to install & manage versions.
 
 # Contributing
 
-Contributions of any kind welcome! See the [contributing guide](contributing.md).
+Contributions of any kind welcome! See the
+[contributing guide](contributing.md).
 
 [Thanks goes to these contributors](https://github.com/gustavclausen/asdf-kubevela/graphs/contributors)!
 
 # License
 
-See [LICENSE](LICENSE) © [Gustav Kofoed Clausen](https://github.com/gustavclausen/)
+See [LICENSE](LICENSE) ©
+[Gustav Kofoed Clausen](https://github.com/gustavclausen/)
